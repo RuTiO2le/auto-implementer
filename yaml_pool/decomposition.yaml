@@ -1,0 +1,10 @@
+../paper/decomposition/Best-bases_feature_extraction_algorithms_for_classification_of_hyperspectral_data.pdf:
+  cost: 0.01385835
+  method_name: TDGLDBFeatureExtractor, GLDBBUFeatureExtractor
+../paper/decomposition/Best-bases_feature_extraction_algorithms_for_classification_of_hyperspectral_data.pdf:
+  cost: 0.016823750000000002
+  method_name: TD-GLDB (Top-Down Generalized Local Discriminant Bases) and GLDB-BU
+    (Generalized Local Discriminant Bases - Bottom-Up)
+../paper/decomposition/Reflectance spectroscopy_ Quantitative analysis techniques for remote sensing applications.html:
+  cost: 0.00831805
+  method_name: BandSelectionFeatureExtractor

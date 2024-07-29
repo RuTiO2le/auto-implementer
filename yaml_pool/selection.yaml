@@ -1,0 +1,12 @@
+? ../paper/selection/Mutual-Information-Based_Semi-Supervised_Hyperspectral_Band_Selection_With_High_Discrimination_High_Information_and_Low_Redundancy.pdf
+: cost: 0.01368295
+  method_name: DIRFeatureExtractor
+../paper/selection/Laplacian-Regularized_Low-Rank_Subspace_Clustering_for_Hyperspectral_Image_Band_Selection.pdf:
+  cost: 0.01746995
+  method_name: Laplacian-Regularized Low-Rank Subspace Clustering (LLRSC)
+../paper/selection/Constrained_Nonnegative_Matrix_Factorization_for_Hyperspectral_Unmixing.pdf:
+  cost: 0.014068750000000001
+  method_name: BandSelectionFeatureExtractor
+../paper/selection/A_Novel_Ranking-Based_Clustering_Approach_for_Hyperspectral_Band_Selection.pdf:
+  cost: 0.015415850000000002
+  method_name: E-FDPC

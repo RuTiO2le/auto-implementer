@@ -1,0 +1,53 @@
+{
+    "file_name": "Best-bases_feature_extraction_algorithms_for_classification_of_hyperspectral_data.pdf",
+    "content": [{
+        "method_name": "TDGLDBFeatureExtractor, GLDBBUFeatureExtractor",
+        "cost": 0.01385835
+    }]
+}{
+    "file_name": "Best-bases_feature_extraction_algorithms_for_classification_of_hyperspectral_data.pdf",
+    "content": [{
+        "method_name": "TD-GLDB (Top-Down Generalized Local Discriminant Bases) and GLDB-BU (Generalized Local Discriminant Bases - Bottom-Up)",
+        "cost": 0.016823750000000002
+    }]
+}{
+    "file_name": "Mutual-Information-Based_Semi-Supervised_Hyperspectral_Band_Selection_With_High_Discrimination_High_Information_and_Low_Redundancy.pdf",
+    "content": [
+        {
+            "method_name": "DIRFeatureExtractor",
+            "cost": 0.01368295
+        }
+    ]
+}{
+    "file_name": "Laplacian-Regularized_Low-Rank_Subspace_Clustering_for_Hyperspectral_Image_Band_Selection.pdf",
+    "content": [
+        {
+            "method_name": "Laplacian-Regularized Low-Rank Subspace Clustering (LLRSC)",
+            "cost": 0.01746995
+        }
+    ]
+}{
+    "file_name": "Constrained_Nonnegative_Matrix_Factorization_for_Hyperspectral_Unmixing.pdf",
+    "content": [
+        {
+            "method_name": "BandSelectionFeatureExtractor",
+            "cost": 0.014068750000000001
+        }
+    ]
+}{
+    "file_name": "Reflectance spectroscopy_ Quantitative analysis techniques for remote sensing applications.html",
+    "content": [
+        {
+            "method_name": "BandSelectionFeatureExtractor",
+            "cost": 0.00831805
+        }
+    ]
+}{
+    "file_name": "A_Novel_Ranking-Based_Clustering_Approach_for_Hyperspectral_Band_Selection.pdf",
+    "content": [
+        {
+            "method_name": "E-FDPC",
+            "cost": 0.015415850000000002
+        }
+    ]
+}
